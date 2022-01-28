@@ -1,7 +1,7 @@
 ---
 title: Wang Pengfei
 role: Assistant Professor of Computer Security
-avatar_filename: avarta.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include system security, program analysis,
   vulnerability detection, and fuzzing test.
 interests:
