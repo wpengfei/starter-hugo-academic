@@ -2,8 +2,8 @@
 title: Wang Pengfei
 role: Assistant Professor of Computer Security
 avatar_filename: 王鹏飞2.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include system security, program analysis,
+  vulnerability detection, and fuzzing test.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -17,10 +17,10 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=QRj2MkIAAAAJ&hl=zh-CN&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/wpengfei
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -42,9 +42,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Wang Pengfei is an assistant professor of computer security at the Department of Network and Cyber Security, National University of Defense Technology. His research interests include system security, program analysis, vulnerability detection, and fuzzing test. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
