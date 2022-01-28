@@ -1,7 +1,7 @@
 ---
 title: Wang Pengfei
 role: Assistant Professor of Computer Security
-avatar_filename: 王鹏飞2.jpg
+avatar_filename: avarta.jpg
 bio: My research interests include system security, program analysis,
   vulnerability detection, and fuzzing test.
 interests:
@@ -25,20 +25,20 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National University of Defense Technology
+    url: http://www.nudt.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Computer Science and Technology
+      institution: National University of Defense Technology
+      year: 2018
+    - course: MEng in Computer Science and Technology
+      institution: National University of Defense Technology
+      year: 2013
+    - course: BSc in Network Engineering
+      institution: National University of Defense Technology
+      year: 20011
+email: pfwang@nudt.edu.cn
 superuser: true
 highlight_name: true
 ---
