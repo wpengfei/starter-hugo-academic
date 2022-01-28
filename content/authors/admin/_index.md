@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include system security, program analysis,
   vulnerability detection, and fuzzing test.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - System Security
+  - Program Analysis
+  - Vulnerability Detection
+  - Fuzzing Test.
 social:
   - icon: envelope
     icon_pack: fas
