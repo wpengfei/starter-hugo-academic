@@ -3,13 +3,12 @@ title: " DFTracker: Detecting Double-Fetch Bugs by Multi-Taints Parallel Trackin
 publication_types:
   - "0"
 authors:
-  - Pengfei Wang*
+  - Pengfei Wang
   - Kai Lu
   - Gen Li
   - Xu Zhou
 author_notes:
-  - Corresponding
-  - ""
+  - Correspondence
 publication: " Frontier of Computer Science"
 publication_short: FCS
 draft: false
