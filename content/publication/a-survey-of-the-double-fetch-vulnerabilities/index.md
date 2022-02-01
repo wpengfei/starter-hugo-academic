@@ -15,6 +15,9 @@ publication: "Concurrency and Computation: Practice and Experience, (ISSN:
 publication_short: CCPE
 draft: false
 featured: false
+projects:
+  - example
+slides: example
 image:
   filename: featured
   focal_point: Smart
