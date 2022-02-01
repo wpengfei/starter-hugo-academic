@@ -13,7 +13,8 @@ doi: 10.1002/cpe.4345
 publication: "Concurrency and Computation: Practice and Experience, (ISSN:
   1532-0634), 30(6), Mar.25th. 2018."
 publication_short: CCPE
-draft: false
+abstract: aaaaaaaaaaaaaaaaaaaaaaaaaaa
+draft: true
 featured: true
 projects:
   - example
@@ -23,8 +24,10 @@ image:
   focal_point: Smart
   preview_only: false
 summary: WOS:000425460100002
-date: 2022-02-01T04:53:32.478Z
+date: 2018-03-25T04:53:00.000Z
 ---
+
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
