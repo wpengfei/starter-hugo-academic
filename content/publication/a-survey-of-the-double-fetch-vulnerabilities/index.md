@@ -14,7 +14,7 @@ publication: "Concurrency and Computation: Practice and Experience, (ISSN:
   1532-0634), 30(6), Mar.25th. 2018."
 publication_short: CCPE
 abstract: aaaaaaaaaaaaaaaaaaaaaaaaaaa
-draft: true
+draft: false
 featured: true
 projects:
   - example
@@ -23,6 +23,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: ""
+  alt_text: ""
 summary: WOS:000425460100002
 date: 2018-03-25T04:53:00.000Z
 ---
