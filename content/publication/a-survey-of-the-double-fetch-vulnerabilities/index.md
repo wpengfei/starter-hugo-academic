@@ -1,6 +1,6 @@
 ---
 title: A Survey of the Double-Fetch Vulnerabilities
-url_pdf: ""
+url_pdf: "content%\%publication\a-survey-of-the-double-fetch-vulnerabilities\example.pdf"
 url_dataset: ""
 url_project: ""
 url_source: ""
