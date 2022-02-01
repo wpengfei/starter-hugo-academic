@@ -9,7 +9,9 @@ authors:
   - Xu Zhou
 author_notes:
   - Correspondence
-publication: " Frontier of Computer Science"
+doi: DOI 10.1007/s11704-016-6383-8
+publication: " Frontier of Computer Science,13(2), pp:247–263. April 11th, 2019.
+  (ISSN: 2095-2236)"
 publication_short: FCS
 draft: false
 featured: true
@@ -19,3 +21,8 @@ image:
   preview_only: false
 date: 2022-02-01T04:55:28.631Z
 ---
+<!--StartFragment-->
+
+WOS:000464846400004
+
+<!--EndFragment-->
