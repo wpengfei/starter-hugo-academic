@@ -13,7 +13,7 @@ authors:
 publication: The 26th USENIX Security Symposium
 publication_short: USENIX Security '17
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
