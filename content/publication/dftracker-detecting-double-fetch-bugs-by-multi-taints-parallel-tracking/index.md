@@ -8,13 +8,12 @@ authors:
   - Gen Li
   - Xu Zhou
 author_notes:
-  - ""
   - Corresponding
   - ""
 publication: " Frontier of Computer Science"
 publication_short: FCS
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
