@@ -19,7 +19,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-02-01T05:08:05.405Z
+date: 2022-02-01T05:12:45.397Z
 ---
 <!--StartFragment-->
 
