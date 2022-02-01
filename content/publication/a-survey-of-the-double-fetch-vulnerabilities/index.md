@@ -1,5 +1,13 @@
 ---
 title: A Survey of the Double-Fetch Vulnerabilities
+url_pdf: "example"
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+url_poster: ""
+url_code: ""
+url_slides: ""
 publication_types:
   - "2"
 authors:
