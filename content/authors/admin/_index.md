@@ -33,12 +33,6 @@ education:
     - course: Visiting Scholar
       institution: University College London
       year: 2016
-    - course: MEng in Computer Science and Technology
-      institution: National University of Defense Technology
-      year: 2013
-    - course: BSc in Network Engineering
-      institution: National University of Defense Technology
-      year: 20011
 email: pfwang@nudt.edu.cn
 superuser: true
 highlight_name: true
