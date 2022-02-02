@@ -17,7 +17,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  count: 5
+  count: 0
   offset: 0
   order: desc
 design:
