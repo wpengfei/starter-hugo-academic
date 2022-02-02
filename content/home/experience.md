@@ -29,11 +29,11 @@ experience:
     location: ""
     date_start: '2018-01-01'
     date_end: ''
-    description:        
+    description:|2-
+        Responsibilities include:        
         * MDPI Entropy (ISSN 1099-4300)
         * Software Quality Journal (ISSN 1573-1367)
         * MDPI Applied Science (ISSN: 2076-3417)
-        
 
 design:
   columns: '2'
