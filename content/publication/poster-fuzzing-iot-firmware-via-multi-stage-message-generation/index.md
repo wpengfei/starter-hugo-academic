@@ -2,6 +2,7 @@
 title: "Poster: Fuzzing IoT Firmware via Multi-stage Message Generation"
 publication_types:
   - "1"
+url_pdf: publication/poster-fuzzing-iot-firmware-via-multi-stage-message-generation/iothunter-final.pdf
 authors:
   - Bo Yu
   - Pengfei Wang
