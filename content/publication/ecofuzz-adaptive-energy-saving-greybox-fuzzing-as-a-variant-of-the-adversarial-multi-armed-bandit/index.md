@@ -1,13 +1,14 @@
 ---
+draft: false
+url_pdf: publication/ecofuzz-adaptive-energy-saving-greybox-fuzzing-as-a-variant-of-the-adversarial-multi-armed-bandit/sec20fall-final226.pdf
 title: "EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the
   Adversarial Multi-Armed Bandit"
 publication_types:
   - "1"
-url_pdf: publication/ecofuzz-adaptive-energy-saving-greybox-fuzzing-as-a-variant-of-the-adversarial-multi-armed-bandit/sec20fall-final226.pdf
 authors:
   - Tai Yue
   - Pengfei Wang
-  - Yong Tang*
+  - Yong Tang
   - Enze Wang
   - Bo Yu
   - Kai Lu
@@ -15,7 +16,6 @@ authors:
 author_notes: []
 publication: The 29th USENIX Security Symposium
 publication_short: USENIX Scurity '20
-draft: false
 featured: true
 image:
   filename: featured
