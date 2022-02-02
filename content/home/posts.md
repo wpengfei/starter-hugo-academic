@@ -9,7 +9,6 @@ active: true
 content:
   filters:
     folders:
-      - post
     tag: ""
     category: ""
     publication_type: ""
