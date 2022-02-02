@@ -5,7 +5,7 @@ headless: true
 weight: 60
 title: Recent News
 subtitle: ""
-active: false
+active: true
 content:
   filters:
     folders:
