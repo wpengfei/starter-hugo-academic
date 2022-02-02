@@ -3,6 +3,7 @@ draft: false
 url_pdf: publication/ecofuzz-adaptive-energy-saving-greybox-fuzzing-as-a-variant-of-the-adversarial-multi-armed-bandit/sec20fall-final226.pdf
 title: "EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the
   Adversarial Multi-Armed Bandit"
+url_slides:"https://www.usenix.org/system/files/sec20_slides_yue.pdf"
 publication_types:
   - "1"
 authors:

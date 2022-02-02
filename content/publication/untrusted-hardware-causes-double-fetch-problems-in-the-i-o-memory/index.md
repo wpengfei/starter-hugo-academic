@@ -5,7 +5,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-url_poster: publication/untrusted-hardware-causes-double-fetch-problems-in-the-i-o-memory/poster.pdf
+url_poster: publication/untrusted-hardware-causes-double-fetch-problems-in-the-i-o-memory/conference_poster_final-2.pdf
 publication_types:
   - "2"
 authors:
