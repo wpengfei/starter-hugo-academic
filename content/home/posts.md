@@ -8,8 +8,7 @@ subtitle: ""
 active: true
 content:
   filters:
-    folders:
-      - post
+    folders: ""
     tag: ""
     category: ""
     publication_type: ""
@@ -17,7 +16,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  count: 0
+  count: 5
   offset: 0
   order: desc
 design:
