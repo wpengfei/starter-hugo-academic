@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ""
     location: ""
-    date_start: '2018'
+    date_start: '2018-01-01'
     date_end: ''
     description:        
         * MDPI Entropy (ISSN 1099-4300)
