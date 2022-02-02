@@ -4,8 +4,8 @@ widget_id: recent news
 headless: true
 weight: 60
 title: Recent News
-subtitle: Our new work is accepted by NDSS 2022
-active: true
+subtitle: ""
+active: false
 content:
   filters:
     folders:
@@ -24,4 +24,4 @@ design:
   view: compact
   columns: "2"
 ---
-Our New Work is accepted by NDSS 2022
+Our paper "MobFuzz: Adaptive Multiobjective Optimization in Gray-box Fuzzing" is accepted by NDSS 2022.
