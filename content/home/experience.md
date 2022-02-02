@@ -29,20 +29,11 @@ experience:
     location: California
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:        
-                * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:       
+        * MDPI Entropy (ISSN 1099-4300), 2014/2015
+        * Software Quality Journal (ISSN 1573-1367), 2018/2021
+        * MDPI Applied Science (ISSN: 2076-3417), 2021
+
 
 design:
   columns: '2'
