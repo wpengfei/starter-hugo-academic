@@ -1,6 +1,14 @@
 ---
 title: "How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A
   Study of Double Fetches in the Linux Kernel"
+url_pdf: publication/C:\Users\pfwan\Desktop\starter-hugo-academic\content\publication\how-double-fetch-situations-turn-into-double-fetch-vulnerabilities-a-study-of-double-fetches-in-the-linux-kernel/cpedoc-accepted.pdf
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+url_poster: ""
+url_code: ""
+url_slides: ""
 subtitle: ""
 publication_types:
   - "1"

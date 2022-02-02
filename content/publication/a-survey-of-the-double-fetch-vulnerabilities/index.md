@@ -1,6 +1,6 @@
 ---
 title: A Survey of the Double-Fetch Vulnerabilities
-url_pdf: publication/a-survey-of-the-double-fetch-vulnerabilities/example.pdf
+url_pdf: publication/a-survey-of-the-double-fetch-vulnerabilities/cpedoc-accepted.pdf
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -21,12 +21,9 @@ doi: 10.1002/cpe.4345
 publication: "Concurrency and Computation: Practice and Experience, (ISSN:
   1532-0634), 30(6), Mar.25th. 2018."
 publication_short: CCPE
-abstract: aaaaaaaaaaaaaaaaaaaaaaaaaaa
+abstract: 
 draft: false
 featured: true
-projects:
-  - example
-slides: example
 image:
   filename: featured
   focal_point: Smart
@@ -37,13 +34,3 @@ summary: WOS:000425460100002
 date: 2018-03-25T04:53:00.000Z
 ---
 
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

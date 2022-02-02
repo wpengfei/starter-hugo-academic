@@ -1,5 +1,11 @@
 ---
 title: Untrusted Hardware Causes Double-fetch Problems in the I/O Memory
+url_pdf: publication/untrusted-hardware-causes-double-fetch-problems-in-the-i-o-memory/jcst-final.pdf
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+url_poster: publication/untrusted-hardware-causes-double-fetch-problems-in-the-i-o-memory/poster.pdf
 publication_types:
   - "2"
 authors:
@@ -21,5 +27,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-02-01T04:51:59.606Z
+date: 2018-05-11T04:51:59.606Z
 ---

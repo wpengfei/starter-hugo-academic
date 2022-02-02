@@ -1,5 +1,6 @@
 ---
 title: " DFTracker: Detecting Double-Fetch Bugs by Multi-Taints Parallel Tracking"
+url_pdf: publication/dftracker-detecting-double-fetch-bugs-by-multi-taints-parallel-tracking/fcs-final.pdf
 publication_types:
   - "2"
 authors:
