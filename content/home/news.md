@@ -1,8 +1,9 @@
 ---
-widget: page
+widget: blank
 widget_id: news
 headless: true
-weight: 10
+weight: 20
+title: Recent News
 active: true
 design:
   columns: "2"
@@ -10,4 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+\[2021-12]aaaaaaaaaaaaaaaaaaaaaaaaaaaa
