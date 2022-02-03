@@ -22,7 +22,13 @@ twitter: ''
 
 email: pfwang@nudt.edu.cn
 #phone: 888 888 88 88
-address: No.109 Deya Road, Changsha, Hunan, China, 410073.
+address:
+  street: No.109 Deya Road
+  city: Changsha
+  region: Hunan
+  postcode: '410073'
+  country: China
+  country_code: CN
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
