@@ -11,4 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-\[2021-12]aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+\[2021-12] Our paper "MobFuzz: Adaptive Multiobjective Optimization in Gray-box Fuzzing" is accepted by NDSS 2022.
