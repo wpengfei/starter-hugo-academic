@@ -1,6 +1,7 @@
 ---
 title: "DFTinker: Detecting and Fixing Double-fetch Bugs in an Automated Way"
 url_pdf: publication/dftinker-detecting-and-fixing-double-fetch-bugs-in-an-automated-way/Final_version.pdf
+doi: 10.1007/978-3-319-94268-1_67
 subtitle: ""
 publication_types:
   - "1"
@@ -20,5 +21,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-02-03T14:43:28.942Z
+date: 2018-06-20T14:43:28.942Z
 ---

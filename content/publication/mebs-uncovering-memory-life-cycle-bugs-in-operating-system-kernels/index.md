@@ -1,5 +1,6 @@
 ---
 title: "MEBS: Uncovering Memory Life-Cycle Bugs in Operating System Kernels"
+url_pdf: publication/mebs-uncovering-memory-life-cycle-bugs-in-operating-system-kernels/JCST-MEBS.pdf
 publication_types:
   - "2"
 authors:
