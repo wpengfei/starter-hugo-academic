@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: recent news
-headless: true
+headless: false
 weight: 30
 title: Recent News
 subtitle: ""
@@ -16,7 +16,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  count: 5
+  count: 3
   offset: 0
   order: desc
 design:
