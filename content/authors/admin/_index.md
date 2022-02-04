@@ -19,9 +19,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/wpengfei
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: National University of Defense Technology
     url: http://www.nudt.edu.cn/
