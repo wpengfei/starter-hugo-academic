@@ -1,5 +1,6 @@
 ---
 title: Collection of Directed Greybox Fuzzers
+url_pdf: publication/collection-of-directed-greybox-fuzzers/collection.pdf
 publication_types:
   - "0"
 authors:

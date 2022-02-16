@@ -6,7 +6,7 @@ authors:
   - Pengfei Wang
   - Jens Krinke
   - Xu Zhou
-  - Kai Lu.
+  - Kai Lu
 author_notes:
   - Correspondence
   - ""
