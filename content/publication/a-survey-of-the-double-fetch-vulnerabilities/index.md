@@ -17,7 +17,6 @@ authors:
   - Xu Zhou
 author_notes:
   - Correspondence
-  -“”
 doi: 10.1002/cpe.4345
 publication: "Concurrency and Computation: Practice and Experience, (ISSN:
   1532-0634), 30(6), Mar.25th. 2018."
