@@ -12,6 +12,10 @@ authors:
   - Kai Lu
   - Qidi Yin
   - Xu Han
+author_notes:
+  - ""
+  - Correspondence
+  - ""
 doi: 10.1109/TSE.2022.3219520
 publication: IEEE Transactions on Software Engineering
 publication_short: IEEE TSE
