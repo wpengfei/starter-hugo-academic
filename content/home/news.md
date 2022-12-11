@@ -11,4 +11,8 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-\[2021-12] Our paper "MobFuzz: Adaptive Multiobjective Optimization in Gray-box Fuzzing" is accepted by NDSS 2022.
+\[﻿2022-11] Our paper "From Release to Rebirth: Exploiting Thanos Objects in Linux Kernel " is accpeted by TIFS.
+
+\[﻿2022-10] Our paper "UltraFuzz: Towards Resource-saving in Distributed Fuzzing" is accepted by TSE.
+
+\[2021-12] Our paper "MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing" has been accepted by NDSS 2022.
