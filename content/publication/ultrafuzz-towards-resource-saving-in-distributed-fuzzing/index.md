@@ -1,6 +1,7 @@
 ---
-title: "UltraFuzz: Towards Resource-saving in Distributed Fuzzing"
+draft: false
 url_pdf: publication/ultrafuzz-towards-resource-saving-in-distributed-fuzzing/IEEETrans-submit-final-UltraFuzz.pdf
+title: "UltraFuzz: Towards Resource-saving in Distributed Fuzzing"
 publication_types:
   - "2"
 authors:
@@ -20,14 +21,13 @@ author_notes:
 doi: 10.1109/TSE.2022.3219520
 publication: IEEE Transactions on Software Engineering
 publication_short: IEEE TSE
-draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 summary: ""
-date: 2022-12-11T10:31:03.043Z
+date: 2022-10-26T10:31:03.043Z
 ---
 Recent research has sought to improve fuzzing
 performance via parallel computing. However, researchers focus
