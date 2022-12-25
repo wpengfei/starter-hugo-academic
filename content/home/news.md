@@ -11,6 +11,8 @@ design:
     text_color_light: false
     image_darken: 0
 ---
+\[﻿2022-12] Our paper "VulHawk: Cross-architecture Vulnerability Detection with Entropy-based Binary Code Search" has been accepted by NDSS 2023.
+
 \[﻿2022-11] Our paper "From Release to Rebirth: Exploiting Thanos Objects in Linux Kernel " has been accepted by IEEE TIFS.
 
 \[﻿2022-10] Our paper "UltraFuzz: Towards Resource-saving in Distributed Fuzzing" has been accepted by IEEE TSE.
