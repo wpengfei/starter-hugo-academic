@@ -13,6 +13,7 @@ experience:
         * MDPI Entropy (ISSN 1099-4300), 2014/2015
         * Software Quality Journal (ISSN 1573-1367), 2018/2021
         * MDPI Applied Science (ISSN: 2076-3417), 2021
+        * Computer & Security (ISSN: 1872-6208), 2022
 widget_id: exp
 headless: true
 weight: 30
