@@ -1,6 +1,5 @@
 ---
 title: "HashMTI: Scalable Mutation-based Taint Inference with Hash Records"
-url_pdf: publication/hashmti-scalable-mutation-based-taint-inference-with-hash-records/HashMTI-saner2021.pdf
 publication_types:
   - "1"
 authors:
@@ -10,7 +9,7 @@ authors:
   - Shuning Wei
   - Tai Yue
 publication: 2021 IEEE International Conference on Software Analysis, Evolution
-  and Reengineering
+  and Reengineering (March 9-12)
 publication_short: SANER 2021
 abstract: >-
   Mutation-based taint inference (MTI) is a novel technique for taint analysis.
@@ -24,6 +23,7 @@ abstract: >-
 
   Compared with the baseline OrigMTI, HashMTI significantly reduces the overhead while having similar accuracy. It achieves a speedup of 2.5X to 23.5X and consumes little memory which is on average 70.4 times less than that of OrigMTI.
 draft: false
+url_pdf: publication/hashmti-scalable-mutation-based-taint-inference-with-hash-records/HashMTI-saner2021.pdf
 featured: false
 image:
   filename: featured
