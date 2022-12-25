@@ -1,5 +1,6 @@
 ---
 title: "HashMTI: Scalable Mutation-based Taint Inference with Hash Records"
+url_pdf: publication/hashmti-scalable-mutation-based-taint-inference-with-hash-records/HashMTI-saner2021.pdf
 publication_types:
   - "1"
 authors:

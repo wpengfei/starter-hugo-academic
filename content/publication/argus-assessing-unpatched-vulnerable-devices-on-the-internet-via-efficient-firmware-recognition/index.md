@@ -1,6 +1,7 @@
 ---
 title: "ARGUS: Assessing Unpatched Vulnerable Devices on the Internet via
   Efficient Firmware Recognition"
+url_pdf: publication\argus-assessing-unpatched-vulnerable-devices-on-the-internet-via-efficient-firmware-recognition\argus.pdf
 publication_types:
   - "1"
 authors:
@@ -11,7 +12,7 @@ authors:
   - Qiang Yang
 doi: https://doi.org/10.1145/3433210.3453685
 publication: The 2021 ACM Asia Conference on Computer and Communications Security
-publication_short: Asia CCS '21
+publication_short: AsiaCCS 2021
 abstract: >-
   Assessing unpatched devices affected by a specified vulnerability is a vital
   but unsolved issue. Using a proof-of-concept tool on the Internet is illegal,
