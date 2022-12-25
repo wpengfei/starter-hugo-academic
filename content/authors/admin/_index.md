@@ -34,6 +34,6 @@ email: pfwang@nudt.edu.cn
 superuser: true
 highlight_name: true
 ---
-Wang Pengfei is an assistant professor of computer security at the Department of Network and Cyber Security, National University of Defense Technology. His research interests include system security, program analysis, vulnerability detection, and fuzzing test. He is looking for self-motivated students for collaborations on computer security research.
+Wang Pengfei is an associate professor of computer security at the Department of Network and Cyber Security, National University of Defense Technology. His research interests include system security, program analysis, vulnerability detection, and fuzzing test. He is looking for self-motivated students for collaborations on computer security research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
