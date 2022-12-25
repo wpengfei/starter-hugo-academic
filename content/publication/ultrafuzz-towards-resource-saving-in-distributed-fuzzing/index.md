@@ -1,5 +1,6 @@
 ---
 title: "UltraFuzz: Towards Resource-saving in Distributed Fuzzing"
+url_pdf: publication/ultrafuzz-towards-resource-saving-in-distributed-fuzzing/IEEETrans-submit-final-UltraFuzz.pdf
 publication_types:
   - "2"
 authors:

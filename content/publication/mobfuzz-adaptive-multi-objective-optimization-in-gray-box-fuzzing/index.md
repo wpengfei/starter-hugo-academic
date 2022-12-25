@@ -1,5 +1,7 @@
 ---
 title: "MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing"
+url_pdf: publication/mobfuzz-adaptive-multi-objective-optimization-in-gray-box-fuzzing/ndss22-fall-final314.pdf
+url_slides: publication/mobfuzz-adaptive-multi-objective-optimization-in-gray-box-fuzzing/MobFuzz-NDSS2022-slides.pptx
 publication_types:
   - "1"
 authors:
