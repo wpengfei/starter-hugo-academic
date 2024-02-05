@@ -23,4 +23,4 @@ design:
 
 \[﻿2022-10] Our paper "UltraFuzz: Towards Resource-saving in Distributed Fuzzing" has been accepted by IEEE TSE.
 
-\[2021-12] Our paper "MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing" has been accepted by NDSS 2022.
+\[2021-12] Our paper "MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing" has been accepted by NDSS 2022..
