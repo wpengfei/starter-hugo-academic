@@ -2,16 +2,16 @@
 title: "DeepGo: Predictive Directed Greybox Fuzzing"
 url_pdf: publication/deepgo-predictive-directed-greybox-fuzzing/deepgo.pdf
 url_slides: ""
-publication_types:
+publication_types: 
   - "1"
-authors:
+authors: 
   - Peihong Lin
   - Pengfei Wang
   - Xu Zhou
   - Wei Xie
   - Gen Zhang
   - Kai Lu
-author_notes:
+author_notes: 
   - ""
   - Correspondence
   - ""
@@ -21,7 +21,7 @@ author_notes:
 
 publication: The Network and Distributed System Security, 2024
 publication_short: NDSS 2024
-abstract: >-
+abstract: 
   Directed Greybox Fuzzing (DGF) is an effective
 approach designed to strengthen testing vulnerable code areas
 via predefined target sites. The state-of-the-art DGF techniques
@@ -62,11 +62,11 @@ ParmeSan, respectively in reaching target sites, and 2.61×, 3.32×,
 2.43× and 2.53× speedup in exposing known vulnerabilities.
 draft: false
 featured: true
-image:
+image: 
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2023-12-03T14:45:47.344Z
 ---
----
+
 
