@@ -26,5 +26,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-2-3T04:50:30.513Z
+date: 2024-02-03T04:50:30.513Z
 ---
