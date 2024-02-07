@@ -21,16 +21,11 @@ author_notes:
 publication: The Network and Distributed System Security, 2024
 publication_short: NDSS 2024
 abstract: >-
-  Directed Greybox Fuzzing (DGF) is an effective
-approach designed to strengthen testing vulnerable code areas
-via predefined target sites. The state-of-the-art DGF techniques
-redefine and optimize the fitness metric to reach the target sites
-precisely and quickly. However, optimizations for fitness metrics
-are mainly based on heuristic algorithms, which usually rely on
-historical execution information and lack foresight on paths that
-have not been exercised yet. Thus, those hard-to-execute paths
-with complex constraints would hinder DGF from reaching the
-targets, making DGF less efficient.
+  Directed Greybox Fuzzing (DGF) is an effective approach designed to strengthen testing vulnerable code areas
+via predefined target sites. The state-of-the-art DGF techniques redefine and optimize the fitness metric to reach the target sites
+precisely and quickly. However, optimizations for fitness metrics are mainly based on heuristic algorithms, which usually rely on
+historical execution information and lack foresight on paths that have not been exercised yet. Thus, those hard-to-execute paths
+with complex constraints would hinder DGF from reaching the targets, making DGF less efficient.
 In this paper, we propose DeepGo, a predictive directed greybox
 fuzzer that can combine historical and predicted information
 to steer DGF to reach the target site via an optimal path. We
@@ -59,6 +54,7 @@ results show that DeepGo achieves 3.23×, 1.72×, 1.81×, and
 4.83× speedup compared to AFLGo, BEACON,WindRanger, and
 ParmeSan, respectively in reaching target sites, and 2.61×, 3.32×,
 2.43× and 2.53× speedup in exposing known vulnerabilities.
+
 draft: false
 featured: true
 image:
