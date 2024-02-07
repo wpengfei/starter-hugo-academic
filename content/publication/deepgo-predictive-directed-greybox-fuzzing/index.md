@@ -14,6 +14,10 @@ authors:
 author_notes: 
   - ""
   - Correspondence
+  - ""
+  - ""
+  - ""
+  - Correspondence
 publication: The Network and Distributed System Security, 2024
 publication_short: NDSS 2024
 draft: false
